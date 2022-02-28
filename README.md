@@ -12,5 +12,6 @@ Here I will be documenting the steps taken in learning ***Google BigQuery***.
 
 ### CREATE TABLE
 
-![]()
+![](https://github.com/latiful-hassan/bigquery_introduction/blob/main/bigquery_introduction_screenshots/bigquery_create_table_query.png)
+
 
