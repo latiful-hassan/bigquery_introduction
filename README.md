@@ -1,2 +1,7 @@
 # bigquery_introduction
-My introduction into using Google BigQuery.
+Here I will be documenting the steps taken in learning ***Google BigQuery***.
+
+## Creating a Table
+
+![]()
+
