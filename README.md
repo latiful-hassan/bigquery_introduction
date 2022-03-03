@@ -67,7 +67,9 @@ Here I will be documenting the steps taken in learning ***Google BigQuery***.
 
 -
 
-![]()
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/in.png)
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/between.png)
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/like.png)
 
 ### ORDER BY/LIMIT
 
