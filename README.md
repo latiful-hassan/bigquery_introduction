@@ -30,39 +30,36 @@ Here I will be documenting the steps taken in learning ***Google BigQuery***.
 
 ### SELECT
 
-- Running **SELECT** queries:
+- Running **SELECT** & **SELECT DISTINCT** queries:
 
-![]()
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/select.png)
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/select_distinct.png)
 
 ### WHERE
 
 - Running **WHERE** queries:
 
-![]()
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/where.png)
 
 ### AND/OR/NOT
 
 - Running logical operator queries:
 
-![]()
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/and.png)
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/or.png)
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/not.png)
 
 ### UPDATE
 
 - Running **UPDATE** queries:
 
-![]()
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/update.png)
 
 ### DELETE
 
 - Running **DELETE** queries:
 
-![]()
-
-### ALTER
-
-- Running **ALTER** queries:
-
-![]()
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/delete.png)
 
 ## Sorting & Ordering
 
