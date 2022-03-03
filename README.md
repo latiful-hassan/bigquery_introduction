@@ -19,5 +19,6 @@ Here I will be documenting the steps taken in learning ***Google BigQuery***.
 - Below I show examples of inserting data with and without specified column names:
 
 ![](https://github.com/latiful-hassan/bigquery_introduction/blob/main/bigquery_introduction_screenshots/bigquery_insert_query.png)
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/table.png)
 
 
