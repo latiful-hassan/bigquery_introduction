@@ -84,25 +84,25 @@ Here I will be documenting the steps taken in learning ***Google BigQuery***.
 
 -
 
-![]()
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/count.png)
 
 ### SUM
 
 -
 
-![]()
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/sum.png)
 
 ### AVERAGE
 
 -
 
-![]()
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/average.png)
 
 ### MIN/MAX
 
 -
 
-![]()
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/min_max.png)
 
 ## Grouping Commands
 
