@@ -2,7 +2,7 @@
 
 Here I will be documenting the steps taken in learning ***Google BigQuery***.
 
-## Fundamental SQL Statements
+## Fundamentals
 
 ### Creating a Dataset
 
@@ -21,4 +21,9 @@ Here I will be documenting the steps taken in learning ***Google BigQuery***.
 ![](https://github.com/latiful-hassan/bigquery_introduction/blob/main/bigquery_introduction_screenshots/bigquery_insert_query.png)
 ![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/table.png)
 
+### Importing Data from Files
 
+- Here I am uploading a csv file to BigQuery:
+
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/import_from_file.png)
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/cust_upload.png)
