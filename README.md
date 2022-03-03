@@ -30,20 +30,20 @@ Here I will be documenting the steps taken in learning ***Google BigQuery***.
 
 ### SELECT
 
-- Running **SELECT** & **SELECT DISTINCT** queries:
+- Running **SELECT** & **SELECT DISTINCT** statement:
 
 ![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/select.png)
 ![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/select_distinct.png)
 
 ### WHERE
 
-- Running **WHERE** queries:
+- Running **WHERE** statement:
 
 ![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/where.png)
 
 ### AND/OR/NOT
 
-- Running logical operator queries:
+- Running logical operator statement:
 
 ![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/and.png)
 ![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/or.png)
@@ -51,13 +51,13 @@ Here I will be documenting the steps taken in learning ***Google BigQuery***.
 
 ### UPDATE
 
-- Running **UPDATE** queries:
+- Running **UPDATE** statement:
 
 ![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/update.png)
 
 ### DELETE
 
-- Running **DELETE** queries:
+- Running **DELETE** statement:
 
 ![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/delete.png)
 
@@ -65,7 +65,7 @@ Here I will be documenting the steps taken in learning ***Google BigQuery***.
 
 ### IN/BETWEEN/LIKE
 
--
+- Running **IN**, **BETWEEN** and **LIKE** statements:
 
 ![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/in.png)
 ![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/between.png)
@@ -73,9 +73,10 @@ Here I will be documenting the steps taken in learning ***Google BigQuery***.
 
 ### ORDER BY/LIMIT
 
--
+- Running **ORDER BY** and **LIMIT**:
 
-![]()
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/order_by.png)
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/limit.png)
 
 ## Aggregate Commands
 
