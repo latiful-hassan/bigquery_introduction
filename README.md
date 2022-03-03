@@ -27,3 +27,128 @@ Here I will be documenting the steps taken in learning ***Google BigQuery***.
 
 ![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/import_from_file.png)
 ![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/cust_upload.png)
+
+### SELECT
+
+- Running **SELECT** queries:
+
+![]()
+
+### WHERE
+
+- Running **WHERE** queries:
+
+![]()
+
+### AND/OR/NOT
+
+- Running logical operator queries:
+
+![]()
+
+### UPDATE
+
+- Running **UPDATE** queries:
+
+![]()
+
+### DELETE
+
+- Running **DELETE** queries:
+
+![]()
+
+### ALTER
+
+- Running **ALTER** queries:
+
+![]()
+
+## Sorting & Ordering
+
+### IN/BETWEEN/LIKE
+
+-
+
+![]()
+
+### ORDER BY/LIMIT
+
+-
+
+![]()
+
+## Aggregate Commands
+
+### COUNT
+
+-
+
+![]()
+
+### SUM
+
+-
+
+![]()
+
+### AVERAGE
+
+-
+
+![]()
+
+### MIN/MAX
+
+-
+
+![]()
+
+## Grouping Commands
+
+### GROUP BY
+
+-
+
+![]()
+
+### HAVING
+
+-
+
+![]()
+
+## Conditionals
+
+### CASE WHEN
+
+-
+
+![]()
+
+## Joins
+
+### LEFT/RIGHT
+
+-
+
+![]()
+
+### INNER
+
+-
+
+![]()
+
+### OUTER
+
+-
+
+![]()
+
+
+## Subqueries
+
+-
+
+![]()
