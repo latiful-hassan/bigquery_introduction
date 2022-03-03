@@ -63,9 +63,11 @@ Here I will be documenting the steps taken in learning ***Google BigQuery***.
 
 ## Sorting & Ordering
 
+- For the following queries, we will be looking at sales data.
+
 ### IN/BETWEEN/LIKE
 
-- Running **IN**, **BETWEEN** and **LIKE** statements:
+- Finding customers that: live in Seattle or Chicago; are aged between 20 and 30 and customers with first and surnames with 4 letters:
 
 ![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/in.png)
 ![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/between.png)
@@ -73,7 +75,7 @@ Here I will be documenting the steps taken in learning ***Google BigQuery***.
 
 ### ORDER BY/LIMIT
 
-- Running **ORDER BY** and **LIMIT**:
+- Ordering the sales in descending order and limiting the results set by 5 rows:
 
 ![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/order_by.png)
 ![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/limit.png)
@@ -82,25 +84,25 @@ Here I will be documenting the steps taken in learning ***Google BigQuery***.
 
 ### COUNT
 
--
+- Counting the number of products purchases and numbers of orders for a specific customer:
 
 ![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/count.png)
 
 ### SUM
 
--
+- Finding the total profit:
 
 ![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/sum.png)
 
 ### AVERAGE
 
--
+- Finding the average commision per sale:
 
 ![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/average.png)
 
 ### MIN/MAX
 
--
+- Showing what the min/max sales are:
 
 ![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/min_max.png)
 
