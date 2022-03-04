@@ -124,9 +124,9 @@ Here I will be documenting the steps taken in learning ***Google BigQuery***.
 
 ### CASE WHEN
 
--
+- Here we are creating a new column based on the conditional, so that each region has an associated HQ location:
 
-![]()
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/case.png)
 
 ## Joins
 
