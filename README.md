@@ -110,15 +110,15 @@ Here I will be documenting the steps taken in learning ***Google BigQuery***.
 
 ### GROUP BY
 
--
+- Here we are finding the numbers of products and grouping by each category:
 
-![]()
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/group_by.png)
 
 ### HAVING
 
--
+- **HAVING** clauses adds a contraint to **GROUP BY** clauses:
 
-![]()
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/having.png)
 
 ## Conditionals
 
