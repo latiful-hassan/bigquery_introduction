@@ -153,6 +153,6 @@ Here I will be documenting the steps taken in learning ***Google BigQuery***.
 
 ## Subqueries
 
--
+- Here we are using a **Subquery** in the **LEFT JOIN FROM** clause to find the sum of quantity from the *sales* table and join it to the *products* table:
 
-![]()
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/subquery.png)
