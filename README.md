@@ -134,21 +134,21 @@ Here I will be documenting the steps taken in learning ***Google BigQuery***.
 
 ### LEFT/RIGHT
 
-- 
+- Results return unmatched data from either the left/right table:
 
-![]()
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/left_right_join.png)
 
 ### INNER
 
--
+- Results return only matched data:
 
-![]()
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/inner_join.png)
 
-### OUTER
+### FULL
 
--
+- Results return all data when there is a match in either left or right table:
 
-![]()
+![](https://github.com/latiful-hassan/bigquery_introduction_inprogress/blob/main/bigquery_introduction_screenshots/full_join.png)
 
 
 ## Subqueries
