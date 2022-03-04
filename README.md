@@ -130,9 +130,11 @@ Here I will be documenting the steps taken in learning ***Google BigQuery***.
 
 ## Joins
 
+- For this section, two new tables were created: *customer_age* which is all customers aged between 20 and 60, *sales_2015* which is compreised of all sales data for the year 2015.
+
 ### LEFT/RIGHT
 
--
+- 
 
 ![]()
 
